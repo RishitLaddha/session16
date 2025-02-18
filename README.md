@@ -2,6 +2,8 @@
 
 [![Python application](https://github.com/RishitLaddha/session16/actions/workflows/python-app.yml/badge.svg)](https://github.com/RishitLaddha/session16/actions/workflows/python-app.yml) 
 
+<img width="1222" alt="Screenshot 2025-02-18 at 19 54 00" src="https://github.com/user-attachments/assets/6fed86d6-900a-4a13-a3fe-a462e066891c" />
+
 
 ## Overview
 
