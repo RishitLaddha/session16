@@ -1,6 +1,6 @@
 # Inventory System Assignment
 
-
+[![Python application](https://github.com/RishitLaddha/session16/actions/workflows/python-app.yml/badge.svg)](https://github.com/RishitLaddha/session16/actions/workflows/python-app.yml) 
 
 
 ## Overview
